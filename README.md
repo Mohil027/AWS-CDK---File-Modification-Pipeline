@@ -1,12 +1,7 @@
 
 # Implementation 
 
-## Video Demo 
 
-[Demo Video](https://www.youtube.com/watch?v=2_UrtueOIoo)
-
-
-Detailed Read.me for the implementation of the fovus coding challenge. Please go through all the steps for the detailed steps to get the project up and running. 
 
 There are multiple permissions to be given to the user to access certain AWS services. All the permissions required will be mentioned at the required steps.
 
